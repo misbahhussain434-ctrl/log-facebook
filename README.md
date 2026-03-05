@@ -1,11 +1,12 @@
- Facebook Page Logo Web Project
- <span style="color:#1877F2;">Introduction</span>
+Facebook Page Logo Web Project
+
+Introduction
 
 The Facebook Page Logo Web Project is a front-end web application built using HTML, CSS, and JavaScript.
-It allows users to create, preview, and customize logos for Facebook pages directly in the browser.
-Users can change colors, text, and styles in real-time to generate professional-looking logos without external tools.
+It allows users to create and customize logos for Facebook pages directly in the browser.
+Users can change colors, text, and styles in real-time to generate professional-looking logos without any external tools.
 
-<span style="color:#FF8C00;">Objectives</span>
+Objectives
 
 Build a responsive and interactive web app for logo creation
 
@@ -15,22 +16,23 @@ Provide instant preview of the logo
 
 Export logos in formats suitable for Facebook
 
-<span style="color:#4B0082;">Technologies Used</span>
+Technologies Used
 
 HTML – Structure of the web app
 
 CSS – Styling, layout, and responsive design
 
-JavaScript – Interactive features, real-time preview
+JavaScript – Interactive features and real-time preview
 
 GitHub – Version control and project hosting
 
-Real-time logo preview using JavaScript DOM manipulation
- 
-Color, font, and text customization
+Project Structure
+Facebook-Page-Logo-Web
+│
+├── index.html        # Main web page
 
-Export logos as PNG or screenshot
+├── style.css         # Styling and layout
 
-Fully responsive for desktop and mobile
+└── README.md         # Project documentation
 
 Misbah Hussain
